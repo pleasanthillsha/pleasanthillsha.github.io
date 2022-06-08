@@ -1,0 +1,10 @@
+_pdf
+_site/
+.bundle/
+.DS_Store
+.idea
+.jekyll-cache
+.jekyll-metadata
+.jekyll-metadata
+.sass-cache/
+vendor/
