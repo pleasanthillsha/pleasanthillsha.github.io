@@ -6,7 +6,7 @@ sidebar: phha_sidebar
 permalink: phha_current_resident.html
 folder: phha
 ---
-
+<!-- 
 <div class="row">
          <div class="col-lg-12">
              <h2 class="page-header">Where do my dues go?</h2>a<p>The Pleasant Hills Homeowners Association collects dues for funding efforts in the following areas:</p>
@@ -74,7 +74,7 @@ folder: phha
              </div>
          </div>
 </div>
-
+</! -->
 
 ### Facilities
 There are several facilities to maintain in the development for the common good, they include the playground equipment, the sign at the entrance, and the sign at the park. Additionally, the lights at the entrance to the development must also be kept running and also be maintained.
