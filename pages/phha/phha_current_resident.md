@@ -74,7 +74,7 @@ folder: phha
              </div>
          </div>
 </div>
-</! -->
+/! -->
 
 ### Facilities
 There are several facilities to maintain in the development for the common good, they include the playground equipment, the sign at the entrance, and the sign at the park. Additionally, the lights at the entrance to the development must also be kept running and also be maintained.
