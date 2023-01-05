@@ -7,6 +7,15 @@ permalink: phha_fees.html
 folder: phha
 ---
 
+## Payment / Correspondence Address
+
+Dues and fees may be mailed to:
+```
+Pleasant Hills Homeowners Association
+PO Box 5244
+Pleasant Gap, PA 16823-5244
+```
+
 ## Annual Dues / Association Dues
 
 Annual dues of $85.00 are payable on January 1st each year and due on or before March 31st.
