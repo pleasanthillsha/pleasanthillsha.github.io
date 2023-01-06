@@ -81,6 +81,19 @@ folder: phha
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">Where do I pay my dues?</a>
+            </h4>
+        </div>
+        <div id="collapseSix" class="panel-collapse collapse">
+            <div class="panel-body">
+                Dues are paid by mailing them to our <a href="/phha_fees.html#payment--correspondence-address">payment/correspondence address</a>. If you need to make payment arrangements, please expedite the process by contacting us via email at <a href="mailto:contact@phha.info">contact@phha.info</a>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">Will the homeowner's association represent me at the township for _____?</a>
             </h4>
         </div>

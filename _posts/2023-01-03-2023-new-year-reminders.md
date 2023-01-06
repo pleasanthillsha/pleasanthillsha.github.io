@@ -15,7 +15,7 @@ We have the Annual Meeting coming up on January 11th, 2023 at 7:00 pm. The meeti
 
 ## Annual Dues - Now Payable!
 
-2023 Annual Dues are now payable. Please send your payment to our mailing address.
+2023 Annual Dues are now payable. Please send your payment to our [mailing address](/phha_fees.html#payment--correspondence-address).
 
 If you have a question for which you can't find an answer, don't hesitate to drop us a line at <contact@phha.info>
 {% include links.html %}
