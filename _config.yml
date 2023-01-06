@@ -119,5 +119,7 @@ description: "Documentation of the things that residents, prospective residents 
 
 github: [metadata]
 
+plugins:
+  - jekyll-redirect-from
 
 # Copyright 2021 Google LLC
