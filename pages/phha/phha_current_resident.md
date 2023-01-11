@@ -80,13 +80,14 @@ folder: phha
 There are several facilities to maintain in the development for the common good, they include the playground equipment, the sign at the entrance, and the sign at the park. Additionally, the lights at the entrance to the development must also be kept running and also be maintained.
 
 ### Maintenance
-General maintenance of the common land (approximately 10 acres). This includes, where applicable, snow removal, mowing, regrading/clearing/reseeding of drainage retention basins. Paving and painting of basketball courts, and nets on the basketball court hoops.
+General maintenance of the common land (over 10 acres). This includes, where applicable, snow removal, mowing, regrading/clearing/reseeding of drainage retention basins. Paving and painting of basketball courts, and nets on the basketball court hoops.
 
 ### Insurance, Mailings, Records
 Proper insurance must be maintained for directors, officers, and property to protect the interests of all development homeowners. Mailings must be conducted for the annual meeting, budget mailer, and other required mailings. Records must be kept for resale certifications.
 
 ### Special Projects
 Special projects are beyond regular maintenance to rehabilitate a piece of equipment, service or area of the development. Examples of previous special projects included:
+ * the replacement and upgrade of the entrance lighting in 2020
  * the rehabilitation of the development's entrance sign in 2020
  * the rehabilitation of the drainage basin in 2019
  * the rehabilitation of the park when it had fallen into disrepair in 2016
