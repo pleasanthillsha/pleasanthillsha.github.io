@@ -10,17 +10,13 @@ toc: no
 
 ## Obtaining a Resale Certification
 
-Thanks for being excited about exploring the site. More content will be coming soon in this very area! I'm excited to provide you with all of the content that you're looking for... if there are particular pieces of information that you think you, or your neighbors will want/need, don't hesitate to use the feedback link to let me know!
-
-
-## More content
-
+Expand the following areas to find out more information that is typically requested when a Realtor requests a Resale Certificate.
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading"><h4 class="panel-title"><a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Are there capitalization fees?</a></h4></div>
         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                No there are no capitalization fees to be paid at this time.
+                There are no capitalization fees to be paid at this time.
             </div>
         </div>
     </div>
@@ -35,6 +31,21 @@ Thanks for being excited about exploring the site. More content will be coming s
                     <li>Pay the $25 resale certification fee via Stripe ($26.06 including convenience fee) or check by mail</li>
                     <li>The secretary-treasurer will confirm receipt of the payment</li>
                     <li>The secretary-treasurer will send (vial email) the resale certificate and new resident welcome package</li>
+                </ol>
+                For complete details, please <a href="mailto:contact@phha.info">contact the Pleasant Hills Secretary-Treasurer</a>.
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading"><h4 class="panel-title"><a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">What is in a new resident welcome package?</a></h4></div>
+        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                The following is in a new resident welcome package:
+                <ol>
+                    <li>A welcome letter</li>
+                    <li>A copy of the bylaws as last published</li>
+                    <li>A copy of the most recent newsletter and budget</li>
                 </ol>
                 For complete details, please <a href="mailto:contact@phha.info">contact the Pleasant Hills Secretary-Treasurer</a>.
             </div>
