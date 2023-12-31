@@ -6,7 +6,9 @@ sidebar: phha_sidebar
 permalink: index.html
 ---
 
+<!--
 {% include note.html content="This is our brand-new website. If you feel that something is missing, don't hestiate to get in touch with us as at contact@phha.info." %}
+-->
 
 ## Welcome!
 
