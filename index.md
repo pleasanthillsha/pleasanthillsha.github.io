@@ -23,12 +23,13 @@ Andrew Gearhart
 ## Regular Operations - What we do
 
 A community with properly maintained community areas has been shown in numerous studies to increase property values. We see this in our community with rising property values and very rapid turnaround between listing and first offers (<30 days to sell compared to 90 days for 16823). Plus, simply put, having a well-maintained community increases the sense of pride that each of us have in the development in which we live. In the normal operations of the Pleasant Hills Homeowners Association, we are the stewards of over 10 acres of community land maintained for the benefit of our community. In addition to hazard insurance for these properties, we also coordinate the regular maintenance of the common properties with mowing, snow removal, equipment repair and replacement, and beautification projects. 
+
 ## Board of Governors
 
 The following is the list of the board of governors, their seat number and the year in which their term expires.
 
-1. Michele Aukerman, 2024, Member
-1. Joshua Reese, 2023, President
-1. Shawn Lehman, 2023, Vice President
-1. Andrew Gearhart, 2025, Secretary-Treasurer
-1. Linn Ripka, 2025, Member
+- Michele Aukerman, Seat 1, 2021-2024, 2023 Member
+- Joshua Reese, Seat 2, 2023-2026, 2023 President
+- Tracy Haines, Seat 3, 2023-2026, 2023 Vice President
+- Andrew Gearhart, Seat 4, 2022-2025, 2023 Secretary-Treasurer
+- Linn Ripka, Seat 5, 2022-2025, 2023 Member
