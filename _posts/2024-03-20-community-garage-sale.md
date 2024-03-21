@@ -4,7 +4,8 @@ date:   2024-03-20 17:30:00 -0500
 published: true
 permalink: 2024-garage-sale-question.html
 summary: "Looking for information about Garage Sale Date Preferences, sharing other good information"
-tags: [news, getting_started]
+tags: [news]
+sidebar: phha_sidebar
 ---
 
 ## Annual Community Garage Sale
