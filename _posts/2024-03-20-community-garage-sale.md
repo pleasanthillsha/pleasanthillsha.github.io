@@ -11,7 +11,7 @@ sidebar: phha_sidebar
 ## Annual Community Garage Sale
 
 🗣 🗣 🗣 🗣 🗣 🗣  
-We're looking for some feedback on Garage Sale Date Preferences. We typically have held our community garage sale the week of Memorial Day weekend as that is when Steeplechase has held their community garage sale weekend. We're looking for feedback on this as a few people have indicated that they would participate if we held it on a different weekend (as they are traveling over Memorial Day weekend). What do you think? Send us an email to let us know! [contact@phha.info](mailto:contact@phha.info)
+We're looking for some feedback on Garage Sale Date Preferences. We typically have held our community garage sale the week of Memorial Day weekend as that is when Steeplechase has held their community garage sale weekend. We're looking for feedback on this as a few people have indicated that they would participate if we held it on a different weekend (as they are traveling over Memorial Day weekend). What do you think? Send us an email to let us know! [contact@phha.info](mailto:contact@phha.info)  
 🗣 🗣 🗣 🗣 🗣 🗣  
 
 A - May 17-19  
