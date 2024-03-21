@@ -1,6 +1,6 @@
 ---
 title: "Pleasant Hills Homeowners Association"
-keywords: homepage, 
+keywords: homepage,
 tags: [website]
 sidebar: phha_sidebar
 permalink: index.html
@@ -18,20 +18,20 @@ Thank you for visiting. I hope you find what you need here. If you don't, please
 
 With warm regards,
 
-Andrew Gearhart  
-  Secretary-Treasurer,  
-  Pleasant Hills Homeowners Association
+Andrew Gearhart
+   Secretary-Treasurer,
+   Pleasant Hills Homeowners Association
 
 ## Regular Operations - What we do
 
-A community with properly maintained community areas has been shown in numerous studies to increase property values. We see this in our community with rising property values and very rapid turnaround between listing and first offers (<30 days to sell compared to 90 days for 16823). Plus, simply put, having a well-maintained community increases the sense of pride that each of us have in the development in which we live. In the normal operations of the Pleasant Hills Homeowners Association, we are the stewards of over 10 acres of community land maintained for the benefit of our community. In addition to hazard insurance for these properties, we also coordinate the regular maintenance of the common properties with mowing, snow removal, equipment repair and replacement, and beautification projects. 
+A community with properly maintained community areas has been shown in numerous studies to increase property values. We see this in our community with rising property values and very rapid turnaround between listing and first offers (<30 days to sell compared to 90 days for 16823). Plus, simply put, having a well-maintained community increases the sense of pride that each of us have in the development in which we live. In the normal operations of the Pleasant Hills Homeowners Association, we are the stewards of over 10 acres of community land maintained for the benefit of our community. In addition to hazard insurance for these properties, we also coordinate the regular maintenance of the common properties with mowing, snow removal, equipment repair and replacement, and beautification projects.
 
 ## Board of Governors
 
-The following is the list of the board of governors, their seat number and the year in which their term expires.
+The following is the list of the board of governors, their seat number, the year in which their term expires and their current role.
 
-- Michele Aukerman, Seat 1, 2021-2024, 2023 Member
-- Joshua Reese, Seat 2, 2023-2026, 2023 President
-- Tracy Haines, Seat 3, 2023-2026, 2023 Vice President
-- Andrew Gearhart, Seat 4, 2022-2025, 2023 Secretary-Treasurer
-- Linn Ripka, Seat 5, 2022-2025, 2023 Member
+- Joshua Reese, Seat 2, 2023-2026, 2024 President
+- Andrew Gearhart, Seat 4, 2022-2025, 2024 Secretary-Treasurer
+- Michele Aukerman, Seat 1, 2024-2027, 2024 Vice President
+- Tracy Haines, Seat 3, 2023-2026, 2024 Member
+- Linn Ripka, Seat 5, 2022-2025, 2024 Member
