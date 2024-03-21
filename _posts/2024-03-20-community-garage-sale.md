@@ -1,6 +1,6 @@
 ---
 title:  "Community Garage Sale Date and Other News"
-date:   2024-03-20 20:30:00 -0500
+date:   2024-03-20 17:30:00 -0500
 published: true
 permalink: 2024-garage-sale-question.html
 summary: "Looking for information about Garage Sale Date Preferences"
