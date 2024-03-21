@@ -18,9 +18,9 @@ Thank you for visiting. I hope you find what you need here. If you don't, please
 
 With warm regards,
 
-Andrew Gearhart
-   Secretary-Treasurer,
-   Pleasant Hills Homeowners Association
+Andrew Gearhart  
+  Secretary-Treasurer,  
+  Pleasant Hills Homeowners Association
 
 ## Regular Operations - What we do
 
