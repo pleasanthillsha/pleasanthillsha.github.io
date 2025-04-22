@@ -30,8 +30,8 @@ A community with properly maintained community areas has been shown in numerous 
 
 The following is the list of the board of governors, their seat number, the year in which their term expires and their current role.
 
-- Joshua Reese, Seat 2, 2023-2026, 2024 President
-- Andrew Gearhart, Seat 4, 2022-2025, 2024 Secretary-Treasurer
-- Michele Aukerman, Seat 1, 2024-2027, 2024 Vice President
-- Tracy Haines, Seat 3, 2023-2026, 2024 Member
-- Linn Ripka, Seat 5, 2022-2025, 2024 Member
+- Joshua Reese, Seat 2, 2023-2026, 2025 President
+- Andrew Gearhart, Seat 4, 2025-2028, 2025 Secretary-Treasurer
+- Michele Aukerman, Seat 1, 2024-2027, 2025 Vice President
+- Tracy Haines, Seat 3, 2023-2026, 2025 Member
+- Linn Ripka, Seat 5, 2025-2028, 2025 Member
