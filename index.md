@@ -35,3 +35,7 @@ The following is the list of the board of governors, their seat number, the year
 - Michele Aukerman, Seat 1, 2024-2027, 2025 Vice President
 - Tracy Haines, Seat 3, 2023-2026, 2025 Member
 - Linn Ripka, Seat 5, 2025-2028, 2025 Member
+
+## Contact us
+
+We can always be reached via our USPS address or electronic mail/email (listed at the bottom of every page here and ever communication we send).

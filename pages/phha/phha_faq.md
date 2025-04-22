@@ -42,6 +42,19 @@ folder: phha
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseContact">How can I contact the board?</a>
+            </h4>
+        </div>
+        <div id="collapseContact" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                You can contact us via USPS (at the bottom of this page), or contact us at <a href="mailto:contact@phha.info">contact@phha.info</a> with any questions you might have.
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Is the homeowners association going to fine my neighbor for ________?</a>
             </h4>
         </div>
