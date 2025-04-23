@@ -76,6 +76,9 @@ folder: phha
 </div>
 /! -->
 
+## What does the Homeowners Association do?
+The Pleasant Hills Homeowners Association (PHHA) uses its annual dues to support the maintenance and upkeep of our community's facilities and common areas.
+
 ### Facilities
 There are several facilities to maintain in the development for the common good, they include the playground equipment, the sign at the entrance, and the sign at the park. Additionally, the lights at the entrance to the development must also be kept running and also be maintained.
 
@@ -83,13 +86,26 @@ There are several facilities to maintain in the development for the common good,
 General maintenance of the common land (over 10 acres). This includes, where applicable, snow removal, mowing, regrading/clearing/reseeding of drainage retention basins. Paving and painting of basketball courts, and nets on the basketball court hoops.
 
 ### Insurance, Mailings, Records
-Proper insurance must be maintained for directors, officers, and property to protect the interests of all development homeowners. Mailings must be conducted for the annual meeting, budget mailer, and other required mailings. Records must be kept for resale certifications.
+Proper insurance must be maintained for directors, officers, and property to protect the interests of all development homeowners. Mailings must be conducted for the annual meeting, budget mailer, and other required mailings. Records must be kept for resale certifications. Resale certifications must be accepted, tracked for valid request information, and produced in a timely manner.
 
 ### Special Projects
 Special projects are beyond regular maintenance to rehabilitate a piece of equipment, service or area of the development. Examples of previous special projects included:
+ * the construction of a new Gaga Ball Pit (playground equipment) in 2025
+ * the painting and sealing of the basketball courts in 2024
+ * the replacement of Freddy the Frog in 2023
+ * the overhaul of the mulching of the park in 2022
  * the replacement and upgrade of the entrance lighting in 2020
  * the rehabilitation of the development's entrance sign in 2020
  * the rehabilitation of the drainage basin in 2019
+ * the new park sign in 2017
  * the rehabilitation of the park when it had fallen into disrepair in 2016
+
+## Contact
+You can contact the Homeowners Association Board of Governors:
+ * **USPS**  
+   PHHA  
+   PO Box 5244  
+   Pleasant Gap, PA 16823-5244
+* **Email**: contact@phha.info
 
 {% include links.html %}
