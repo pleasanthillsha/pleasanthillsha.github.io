@@ -1,6 +1,7 @@
 ---
-title: "Pleasant Hills Homeowners Association"
-keywords: homepage,
+title: "Pleasant Hills Homeowners Association - Pleasant Gap, Pennsylvania"
+keywords: homepage, Pleasant Gap, Centre County, Pennsylvania
+description: "Official site for the Pleasant Hills neighborhood in Pleasant Gap, Centre County, Pennsylvania (ZIP 16823)."
 tags: [website]
 sidebar: phha_sidebar
 permalink: index.html
@@ -12,7 +13,9 @@ permalink: index.html
 
 ## Welcome!
 
-I, along with the other members of the Pleasant Hills Homeowners Association Board of Governors, would like to welcome you to our new website. This website is the work of many members of the Board of Governors (both current and from previous boards) that gathered and attempted to make information available in different documents that had been passed along from one board to the next. That information is being compiled here for the current board and our community to use to make our community the very best it can be!
+**Serving the Pleasant Hills neighborhood in Pleasant Gap, Centre County, Pennsylvania (ZIP 16823).** We are in Spring Township, just outside Bellefonte, and all information here is for our Pennsylvania community.
+
+I, along with the other members of the Pleasant Hills Homeowners Association Board of Governors, would like to welcome you to our website. This website is the work of many members of the Board of Governors (both current and from previous boards) that gathered and attempted to make information available in different documents that had been passed along from one board to the next. That information is being compiled here for the current board and our community to use to make our community the very best it can be!
 
 Thank you for visiting. I hope you find what you need here. If you don't, please contact us via the feedback links.
 
@@ -34,8 +37,10 @@ The following is the list of the board of governors, their seat number, the year
 - Andrew Gearhart, Seat 4, 2025-2028, 2025 Secretary-Treasurer
 - Michele Aukerman, Seat 1, 2024-2027, 2025 Vice President
 - Tracy Haines, Seat 3, 2023-2026, 2025 Member
-- Linn Ripka, Seat 5, 2025-2028, 2025 Member
+- Currently Vacant, Seat 5, 2025-2028, 2025 Member
 
 ## Contact us
 
-We can always be reached via our USPS address or electronic mail/email (listed at the bottom of every page here and ever communication we send).
+We can always be reached via our USPS address or electronic mail/email (listed at the bottom of every page here and every communication we send).
+
+If you are trying to reach a Pleasant Hills community outside Pleasant Gap in Centre County, Pennsylvania, please contact the homeowners association for that local neighborhood.
